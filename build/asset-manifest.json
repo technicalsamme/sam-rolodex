@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sams-rolodex/static/css/main.a9604473.css",
+    "main.js": "/sams-rolodex/static/js/main.8b48895f.js",
+    "index.html": "/sams-rolodex/index.html",
+    "main.a9604473.css.map": "/sams-rolodex/static/css/main.a9604473.css.map",
+    "main.8b48895f.js.map": "/sams-rolodex/static/js/main.8b48895f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9604473.css",
+    "static/js/main.8b48895f.js"
+  ]
+}
